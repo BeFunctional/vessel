@@ -27,8 +27,8 @@ library
                      , constraints-extras >= 0.3 && < 0.4
                      , dependent-map >= 0.3 && < 0.4
                      , dependent-monoidal-map >= 0.1.1.0 && < 0.2
-                     , dependent-sum >= 0.6 && < 0.7
-                     , dependent-sum-aeson-orphans >= 0.2.1 && < 0.3
+                     , dependent-sum >= 0.6 && < 0.8
+                     , dependent-sum-aeson-orphans >= 0.2.1 && < 0.4
                      , monoidal-containers >= 0.6 && < 0.7
                      , mtl >= 2.2 && < 2.3
                      , reflex >= 0.6.4 && < 0.9
